@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_username_label">username</string>
+    <string name="login_password_label">password</string>
+    <string name="login_button_label">Login</string>
+    <string name="take_photo_button_label">Take a picture</string>
+    <string name="insert_photo_button_label">Insert a picture</string>
+</resources>
